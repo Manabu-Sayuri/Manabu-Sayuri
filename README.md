@@ -7,14 +7,11 @@ I’m also the creator of [manabimasu.com](https://manabimasu.com), a site built
 
 ---
 
-## 🧵 Where to find me
+## ☕ About Me
 
-[![Website](https://img.shields.io/badge/🌐%20Website-manabimasu.com-1E90FF?style=flat-square)](https://manabimasu.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-SayuriTabuti-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sayuritabuti)
-[![Threads](https://img.shields.io/badge/🧵%20Threads-@manabu__vocab-ff5c8d?style=flat-square&logo=threads)](https://www.threads.net/@manabu_vocab)
-[![TikTok](https://img.shields.io/badge/🎵%20TikTok-@manabu__vocab-black?style=flat-square&logo=tiktok)](https://www.tiktok.com/@manabu_vocab)
-[![YouTube](https://img.shields.io/badge/📺%20YouTube-@manabu__vocab-red?style=flat-square&logo=youtube)](https://www.youtube.com/@manabu_vocab)
-[![Instagram](https://img.shields.io/badge/📸%20Instagram-@manabu__vocab-E1306C?style=flat-square&logo=instagram)](https://www.instagram.com/manabu_vocab)
+I’m a cozy soul who loves 🐱 ☕ 📺 📚 🎮  
+I teach Japanese because I believe language can change lives — helping people overcome challenges and create new paths.  
+Learning to code so I can create meaningful tools for learners like me.
 
 ---
 
@@ -28,10 +25,18 @@ I’m also the creator of [manabimasu.com](https://manabimasu.com), a site built
 
 ---
 
-## ☕ About Me
+## 🧵 Where to find me
 
-I’m a cozy soul who loves 🐱 ☕ 📺 📚 🎮  
-I teach Japanese because I believe language can change lives — helping people overcome challenges and create new paths.  
-Learning to code so I can create meaningful tools for learners like me.
+[![Website](https://img.shields.io/badge/🌐%20Website-manabimasu.com-1E90FF?style=flat-square)](https://manabimasu.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-SayuriTabuti-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sayuritabuti)
+[![Threads](https://img.shields.io/badge/🧵%20Threads-@manabu__vocab-ff5c8d?style=flat-square&logo=threads)](https://www.threads.net/@manabu_vocab)
+[![TikTok](https://img.shields.io/badge/🎵%20TikTok-@manabu__vocab-black?style=flat-square&logo=tiktok)](https://www.tiktok.com/@manabu_vocab)
+[![YouTube](https://img.shields.io/badge/📺%20YouTube-@manabu__vocab-red?style=flat-square&logo=youtube)](https://www.youtube.com/@manabu_vocab)
+[![Instagram](https://img.shields.io/badge/📸%20Instagram-@manabu__vocab-E1306C?style=flat-square&logo=instagram)](https://www.instagram.com/manabu_vocab)
+
+
+
+
+
 
 
