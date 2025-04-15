@@ -3,7 +3,7 @@
 Hi! I'm Sayuri — a Japanese teacher who loves making language learning visual, intuitive, and fun.  
 I teach beginners, self-learners, and fans of Japanese culture.  
 
-I’m also the creator of [manabumasu.com](https://manabumasu.com), a site built to support and inspire Japanese learners.  
+I’m also the creator of [manabimasu.com](https://manabimasu.com), a site built to support and inspire Japanese learners.  
 
 ---
 
